@@ -1,2 +1,2 @@
 # Data Analysis and Reporting
-Determining the best location for a chinese restaurant in Toronto
+Determining the suitable location for a chinese restaurant in Queens, New York, USA
